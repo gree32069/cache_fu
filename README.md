@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Add PaddlePaddle Docs Integrations Page (#8858)
